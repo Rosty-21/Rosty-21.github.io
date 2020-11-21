@@ -1,0 +1,21 @@
+.header {
+  text-transform: uppercase;
+}
+.header {
+  color: #333;
+}
+.header {
+  background-color: #0f0f0f;
+}
+.main {
+  color: #333;
+}
+.main {
+  background-color: #0f0f0f;
+}
+.main.less {
+  background-color: #fff;
+}
+.main.less {
+  background-color: #0f0f0f;
+}
